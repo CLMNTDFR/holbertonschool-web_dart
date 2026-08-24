@@ -1,6 +1,11 @@
-# Dart - Function
+# holbertonschool-web_dart
 
-Holberton project on Dart functions: parameters, return types, control flow, recursion, and work with strings, lists and maps.
+Holberton Dart track. Starts with functions, then moves into classes and OOP basics.
+
+## Projects
+
+- `0x01-dart-function` - functions, recursion, lists and maps
+- `0x02-dart-classes` - classes, constructors, JSON and inheritance
 
 ## Author
 
