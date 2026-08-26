@@ -13,5 +13,7 @@ Future calculateTotal() async {
       total += json.decode(priceData);
     }
     return total;
+  } catch (error) {
+    return -1;
   }
 }
